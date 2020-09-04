@@ -1,0 +1,147 @@
+{
+  "checklist_id": 0,
+  "aircraft": "a320",
+  "items": [
+    {
+      "actor": 1,
+      "itemId": 1,
+      "critical": false,
+      "challenge": "ENG MASTERS 1,2",
+      "response": "CHECK OFF"
+    },
+    
+    {
+      "actor": 1,
+      "itemId": 2,
+      "critical": false,
+      "challenge": "ENG MODE selector",
+      "response": "CHECK NORM"
+    },
+    {
+      "actor": 1,
+      "itemId": 3,
+      "critical": false,
+      "challenge": "WEATHER RADAR",
+      "response": "OFF"
+    },
+    {
+      "actor": 1,
+      "itemId": 4,
+      "critical": false,
+      "challenge": "L/G lever",
+      "response": "CHECK DOWN"
+    },
+    {
+      "actor": 1,
+      "itemId": 5,
+      "critical": false,
+      "challenge": "Both WIPER selectors",
+      "response": "OFF"
+    },
+    {
+      "actor": 1,
+      "itemId": 6,
+      "critical": false,
+      "challenge": "BAT",
+      "response": "CHECK/AUTO"
+    },
+    {
+      "actor": 1,
+      "itemId": 7,
+      "critical": false,
+      "challenge": "EXT PWR pb-sw",
+      "response": "ON"
+    },
+    {
+      "actor": 1,
+      "itemId": 8,
+      "critical": false,
+      "challenge": "APU FIRE",
+      "response": "CHECK/TEST"
+    },
+    {
+      "actor": 1,
+      "itemId": 9,
+      "critical": false,
+      "challenge": "APU",
+      "response": "START"
+    },
+    {
+      "actor": 1,
+      "itemId": 10,
+      "critical": false,
+      "challenge": "When the APU is AVAIL",
+      "note": true
+    },
+    {
+      "actor": 1,
+      "itemId": 11,
+      "critical": false,
+      "challenge": "AIR COND panel",
+      "response": "SET"
+    },
+    {
+      "actor": 1,
+      "itemId": 12,
+      "critical": false,
+      "challenge": "EXT PWR pb-sw",
+      "response": "AS RQRD"
+    },
+    {
+      "actor": 1,
+      "itemId": 13,
+      "critical": false,
+      "challenge": "COCKPIT LIGHT",
+      "response": "AS RQRD"
+    },
+    {
+      "actor": 1,
+      "itemId": 14,
+      "critical": false,
+      "challenge": "ECAM RCL pb",
+      "response": "PRESS"
+    },
+    {
+      "actor": 1,
+      "itemId": 15,
+      "critical": false,
+      "challenge": "ECAM RCL pb",
+      "response": "PRESS"
+    },
+    {
+      "actor": 1,
+      "itemId": 16,
+      "critical": false,
+      "challenge": "ECAM OXY PRESS/HYD QTY/ENG OIL QTY",
+      "response": "CHECK"
+    },
+    {
+      "actor": 1,
+      "itemId": 17,
+      "critical": false,
+      "challenge": "SPD BRK LEVER",
+      "response": "CHECK RET & DISARMED"
+    },
+    {
+      "actor": 1,
+      "itemId": 18,
+      "critical": false,
+      "challenge": "PARKING BRAKE handle",
+      "response": "ON"
+    },
+    {
+      "actor": 1,
+      "itemId": 19,
+      "critical": false,
+      "challenge": "ACCU/BRAKES PRESS",
+      "response": "CHECK"
+    },
+    {
+      "actor": 1,
+      "itemId": 20,
+      "critical": false,
+      "challenge": "Carries out exterior inspection\nChecks approach plates are available\nCarries out panel preparation\nInitializes Merlin",
+      "note": true
+    }
+  ]
+}
